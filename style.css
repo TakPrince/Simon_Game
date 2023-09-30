@@ -1,0 +1,56 @@
+body{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+h1{
+	font-family: 'Black Ops One', cursive;
+	font-weight: 800;
+	letter-spacing: .15rem;
+	font-size:x-large;
+}
+h2{
+	font-weight: 500;
+	font-family: 'Oswald', sans-serif;
+}
+.btn{
+	height: 180px;
+	width: 180px;
+	border-radius: 2.5rem;
+	border: 10px solid rgba(249, 249, 249, 0.584);
+	margin: 1rem;
+}
+.btn-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.box{
+	justify-self: center;
+}
+.red{
+	background: rgb(255, 0, 102);
+}
+.yello{
+	background: rgb(255, 157, 0);
+}
+.blue{
+	background: rgb(0, 94, 255);
+}
+.purple{
+	background: rgb(217, 0, 255);
+}
+.info{
+	height: 10vh;
+	width: 95vw;
+	font-size: large;
+	font-weight: 400;
+	font-family: 'Oswald', sans-serif;
+}
+.flash{
+	background-color: white;
+}
+
+.userflash{
+	background-color: white;
+}
